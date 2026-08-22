@@ -1,0 +1,9 @@
+intent,question,answer,category
+greeting,Hello,"Hi there! I'm your support assistant. How can I help you today?",general
+track_order,Where is my order?,"You can track your order status from the Orders section of your account. Once shipped, you'll receive a tracking number via email.",orders
+cancel_order,How do I cancel my order?,"Orders can be cancelled within 24 hours of purchase from the Orders page. After that, please contact support directly as the order may already be processing.",orders
+return_policy,What is your return policy?,"We accept returns within 30 days of delivery for unused items in original packaging. Refunds are processed within 5-7 business days after we receive the item.",returns
+product_inquiry,Tell me about your products,"Please share the product name or link and I can pull up specifications, pricing, and availability for you.",products
+payment_issue,I have a payment issue,"We're sorry about the trouble. If a payment failed or you were charged incorrectly, it's usually resolved automatically within 24-48 hours; otherwise our billing team can assist directly.",billing
+complaint,I want to file a complaint,"I'm sorry to hear that. Your complaint has been logged and a member of our support team will follow up with you shortly.",support
+fallback,fallback,"I'm not fully sure I understood that. Could you rephrase, or ask about an order, return, payment, or product?",general

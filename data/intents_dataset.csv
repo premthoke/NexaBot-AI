@@ -1,0 +1,86 @@
+text,intent
+hi,greeting
+hello,greeting
+hey there,greeting
+good morning,greeting
+good afternoon,greeting
+is anyone there,greeting
+hello can you help me,greeting
+hey I need some help,greeting
+where is my order,track_order
+track my order,track_order
+what is the status of my order,track_order
+has my package shipped yet,track_order
+I want to track my package,track_order
+order status please,track_order
+when will my order arrive,track_order
+can you tell me where my order is,track_order
+my order id is 12345 where is it,track_order
+tracking number not working,track_order
+I want to cancel my order,cancel_order
+please cancel order 4587,cancel_order
+how do I cancel my purchase,cancel_order
+cancel my recent order,cancel_order
+I no longer want this order please cancel it,cancel_order
+can you cancel my subscription order,cancel_order
+I placed the wrong order please cancel,cancel_order
+stop my order from shipping,cancel_order
+what is your return policy,return_policy
+how do I return an item,return_policy
+can I get a refund,return_policy
+I want to return this product,return_policy
+how many days do I have to return something,return_policy
+is this item refundable,return_policy
+I received a damaged item and want a refund,return_policy
+what is the refund process,return_policy
+tell me about this product,product_inquiry
+does this product come in other colors,product_inquiry
+what are the specifications of this item,product_inquiry
+is this product in stock,product_inquiry
+how much does this cost,product_inquiry
+what sizes are available,product_inquiry
+can you tell me more about this laptop,product_inquiry
+is this compatible with android,product_inquiry
+my payment failed,payment_issue
+I was charged twice,payment_issue
+payment not going through,payment_issue
+I have an issue with my payment,payment_issue
+my card was declined,payment_issue
+I was charged the wrong amount,payment_issue
+refund not received in my account,payment_issue
+payment shows pending for too long,payment_issue
+this product is terrible,complaint
+I am very unhappy with the service,complaint
+my item arrived broken,complaint
+this is the worst experience ever,complaint
+I want to file a complaint,complaint
+customer service was rude to me,complaint
+I am extremely disappointed,complaint
+this is unacceptable,complaint
+asdkjaskdj random text,fallback
+qwerty12345,fallback
+tell me a joke,fallback
+what is the weather today,fallback
+who is the president,fallback
+sing me a song,fallback
+what is 2 plus 2,fallback
+blah blah blah,fallback
+what colors does this come in,product_inquiry
+what material is this made of,product_inquiry
+do you have this in a larger size,product_inquiry
+is this item waterproof,product_inquiry
+what is the battery life on this,product_inquiry
+does this have a warranty,product_inquiry
+can you send me product details,product_inquiry
+is this available for international shipping,product_inquiry
+random gibberish text here,fallback
+lorem ipsum dolor sit amet,fallback
+can you recommend a good movie,fallback
+what time is it right now,fallback
+tell me something funny,fallback
+xyzabc123,fallback
+how do airplanes fly,fallback
+thanks bye,greeting
+thank you goodbye,greeting
+see you later,greeting
+good evening,greeting
