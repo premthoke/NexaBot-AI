@@ -32,14 +32,14 @@ An enterprise-ready, local-first AI customer service chatbot powered by a hybrid
 Clean modern interface featuring quick-action topic pills, real-time status monitor, session persistence, and instant navigation.
 
 <div align="center">
-  <img width="1024" height="546" alt="nexabot-welcome" src="https://github.com/user-attachments/assets/f5767271-8a5a-451b-b7f7-c8f949d87ada" />
+<img width="1919" height="1025" alt="Screenshot 2026-09-06 012131" src="https://github.com/user-attachments/assets/80efcc7d-5d56-422d-996a-1663132c760b" />
 <br/>
 
 ### 2. ⚡ Live Conversation with Real-Time NLP Inspection
 Full transparency into the machine learning pipeline: every bot response displays the **classified intent**, a **live confidence meter**, and **extracted entities** (such as Order IDs, dates, and products).
 
 <div align="center">
-  <img width="1024" height="550" alt="nexabot-chat-nlp" src="https://github.com/user-attachments/assets/8302fbfc-c42b-4715-bc07-2ef81642a9d6" />
+  <img width="1919" height="1025" alt="Screenshot 2026-09-06 012157" src="https://github.com/user-attachments/assets/4fe3fdde-487a-47a6-b31a-aa1911883bcf" />
 </div>
 
 <br/>
@@ -48,7 +48,7 @@ Full transparency into the machine learning pipeline: every bot response display
 Local session management supporting guest browsing as well as registered customer accounts with PBKDF2 password encryption.
 
 <div align="center">
-  <img width="1024" height="546" alt="nexabot-auth-modal" src="https://github.com/user-attachments/assets/54f5d45a-a982-453f-937c-43c20f6d7e92" />
+  <img width="1919" height="1025" alt="Screenshot 2026-09-06 012210" src="https://github.com/user-attachments/assets/62c5314a-bab1-4897-beac-de6c8e9a2a65" />
 </div>
 
 ---
